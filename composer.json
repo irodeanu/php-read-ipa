@@ -1,9 +1,9 @@
 {
-    "name": "hoanganh25991/php-read-ipa",
+    "name": "irodeanu/php-read-ipa",
     "type": "library",
     "description": "Read basic info about an application from .ipa file.",
     "keywords": ["apk", "parser", "android", "read"],
-    "homepage": "https://github.com/hoanganh25991/php-read-apk",
+    "homepage": "https://github.com/irodeanu/php-read-ipa",
     "license": "MIT",
     "authors": [
         {
@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/hoanganh25991/php-read-ipa.git"
+            "url": "https://github.com/irodeanu/php-read-ipa.git"
         }
     ]
 }
